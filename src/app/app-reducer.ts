@@ -29,7 +29,7 @@ export const appReducer = slice.reducer
 
 
 export type RequestStatusType = 'idle' | 'loading' | 'succeeded' | 'failed'
-// export type InitialStateType = typeof initialState
+export type InitialStateType = typeof initialState
 
 export const {setAppErrorAC,setAppStatusAC,setIsInitializedAC} = slice.actions
 /*export const {setAppStatusAC} = slice.actions
