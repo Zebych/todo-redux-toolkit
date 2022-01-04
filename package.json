@@ -1,6 +1,6 @@
 {
   "homepage": "https://zebych.github.io/todo-redux-toolkit/",
-  "name": "todo16v2",
+  "name": "todo-redux-toolkit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
